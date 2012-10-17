@@ -1,0 +1,1 @@
+This is an example I wrote in python while playing with itertools. The actual program simply calculates the averages of the desired groups in the csv file. It plays around with some packages and I wanted to see how cleanly they could beused for this kind of task. 
